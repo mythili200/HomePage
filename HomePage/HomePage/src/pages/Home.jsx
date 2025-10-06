@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Services from "../components/Services";
-import Footer from "../components/Footer";
 import { api } from "../api/api";
 import { Box, Typography, Grid, Card, CardContent, Chip } from "@mui/material";
 import StarIcon from "@mui/icons-material/Star";
